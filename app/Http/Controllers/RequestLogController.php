@@ -16,7 +16,7 @@ class RequestLogController extends Controller
     {
         $list = DB::table('request_logs')
             ->orderByDesc('id')
-            ->paginate(10);
+            ->paginate(5);
 
         return response()->json($list);
     }
