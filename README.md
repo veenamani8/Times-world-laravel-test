@@ -21,6 +21,7 @@ This project demonstrates full-stack development using Laravel and Vue, and incl
 ### 1. Clone the repository
 
 ```sh
+repo-ul = https://github.com/veenamani8/Times-world-laravel-test.git
 git clone <your-repo-url>
 cd myapp
 ```
@@ -71,5 +72,8 @@ You can then stop the `node` service and serve with only the `app` service.
 - Run artisan commands: `docker-compose exec app php artisan <command>`
 - Run npm commands: `docker-compose exec node npm <command>`
 
+### 8. Preview
+
+- https://drive.google.com/drive/folders/1uItRHE8KRYNhBoIUWCxNUuoT7JKMwkYE?usp=sharing
 ---
 
